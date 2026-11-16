@@ -4,7 +4,7 @@
     <Provider>Gold Consultoria</Provider>
     <Email>goldconsultoria34@gmail.com</Email>
     <ContactName>Walter Negri - (61) 98124-7628</ContactName>
-    <PublishDate>2026-11-16T15:39:36.760Z</PublishDate>
+    <PublishDate>2026-11-16T20:18:34.670Z</PublishDate>
   </Header>
   <Listings>
     <Listing>
@@ -17,7 +17,10 @@
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Excelente apto nasc, vaz, vista livre]]></Description>
         <ListPrice currency="BRL">385000</ListPrice>
-        <LivingArea unit="square metres">60</LivingArea>
+        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">0</YearlyTax>
+        <LivingArea unit="square metres">65</LivingArea>
+        <LotArea unit="square metres">65</LotArea>
         <Bedrooms>3</Bedrooms>
         <Bathrooms>1</Bathrooms>
         <Suites>1</Suites>
@@ -28,6 +31,8 @@
         <State abbreviation="DF">Distrito Federal</State>
         <City>Brasília</City>
         <Neighborhood>Vicente Pires EPTG</Neighborhood>
+        <Address>Gold Consultoria (61)98124-7628</Address>
+        <PostalCode>72005-505</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Gold Consultoria</Name>
