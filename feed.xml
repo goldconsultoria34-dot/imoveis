@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListingDataFeed xmlns="http://www.vivareal.com/schemas/1.0/VRSync" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vivareal.com/schemas/1.0/VRSync http://xml.vivareal.com/vrsync.xsd">
+  <Header>
+    <Provider>Gold Consultoria</Provider>
+    <Email>goldconsultoria34@gmail.com</Email>
+    <ContactName>Walter Negri - (61) 98124-7628</ContactName>
+    <PublishDate>2026-11-16T15:39:36.760Z</PublishDate>
+  </Header>
+  <Listings>
+    <Listing>
+      <ListingID>GOLD-101</ListingID>
+      <Title><![CDATA[Apartamento - Vicente Pires EPTG]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Media>
+      </Media>
+      <Details>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Excelente apto nasc, vaz, vista livre]]></Description>
+        <ListPrice currency="BRL">385000</ListPrice>
+        <LivingArea unit="square metres">60</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="DF">Distrito Federal</State>
+        <City>Brasília</City>
+        <Neighborhood>Vicente Pires EPTG</Neighborhood>
+      </Location>
+      <ContactInfo>
+        <Name>Gold Consultoria</Name>
+        <Email>goldconsultoria34@gmail.com</Email>
+        <Telephone>(61) 98124-7628</Telephone>
+      </ContactInfo>
+    </Listing>
+  </Listings>
+</ListingDataFeed>
