@@ -4,7 +4,7 @@
     <Provider>Gold Consultoria</Provider>
     <Email>goldconsultoria34@gmail.com</Email>
     <ContactName>Walter Negri - (61) 98124-7628</ContactName>
-    <PublishDate>2026-11-17T01:26:57.791Z</PublishDate>
+    <PublishDate>2026-11-17T14:52:18.161Z</PublishDate>
   </Header>
   <Listings>
     <Listing>
@@ -48,6 +48,592 @@
         <City>Brasília</City>
         <Neighborhood>Vicente Pires EPTG</Neighborhood>
         <Address>Quadra Principal - Vicente Pires EPTG</Address>
+        <PostalCode>72005-505</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Gold Consultoria (61)98124-7628</Name>
+        <Email>goldconsultoria34@gmail.com</Email>
+        <Telephone>(61) 98124-7628</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>GOLD-102</ListingID>
+      <Title><![CDATA[Apartamento - SQN 104]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Media>
+        <Item medium="image" caption="Foto 1" primary="true">https://drive.google.com/uc?export=view&amp;id=16qibEEuGKUlaN4L6M7693hRnCg3o38fe</Item>
+        <Item medium="image" caption="Foto 2">https://drive.google.com/uc?export=view&amp;id=1B9-rEp-dz5dRmdGscum3HwTRxJX2s_kd</Item>
+        <Item medium="image" caption="Foto 3">https://drive.google.com/uc?export=view&amp;id=1XKzK0juSjoRw8DxMs0kBk78It3X1Y3a_</Item>
+        <Item medium="image" caption="Foto 4">https://drive.google.com/uc?export=view&amp;id=1fqbqLlPpDdQ_Xqb3E9S9GlCoW5PVWBx7</Item>
+        <Item medium="image" caption="Foto 5">https://drive.google.com/uc?export=view&amp;id=1avHWA6b_5zk3B54erdFi8hX1GnbELT_L</Item>
+        <Item medium="image" caption="Foto 6">https://drive.google.com/uc?export=view&amp;id=1Xsvx-TN8VCb6yDUBwmvnQ5QxLPBn8-qc</Item>
+        <Item medium="image" caption="Foto 7">https://drive.google.com/uc?export=view&amp;id=1o1eXRgDs8y4n-U1eRGIT_EiQ20qbFiur</Item>
+        <Item medium="image" caption="Foto 8">https://drive.google.com/uc?export=view&amp;id=1AbULLJWoXTi_3SiZa_E0_VI8ToApwy_3</Item>
+        <Item medium="image" caption="Foto 9">https://drive.google.com/uc?export=view&amp;id=1_J7ftDLpiZLjyWUH3yKrfRmrZIE8rICi</Item>
+        <Item medium="image" caption="Foto 10">https://drive.google.com/uc?export=view&amp;id=1Z5o-4P2g-_ss3z0jyz26G2wYH_DvjAtj</Item>
+        <Item medium="image" caption="Foto 11">https://drive.google.com/uc?export=view&amp;id=146dSLjv7U8-WUx1AFNakR0Q1NW7wwPS1</Item>
+        <Item medium="image" caption="Foto 12">https://drive.google.com/uc?export=view&amp;id=1JiUNwXCQ13W53jRmWm3wbXeblFkvSQO2</Item>
+        <Item medium="image" caption="Foto 13">https://drive.google.com/uc?export=view&amp;id=1rxNR7y3fh8kAPhejV6X0wsI0iBI1fXjF</Item>
+        <Item medium="image" caption="Foto 14">https://drive.google.com/uc?export=view&amp;id=1Zh_l0xNmkvhmMOAPOGuI4cbOBxVmj_Jk</Item>
+        <Item medium="image" caption="Foto 15">https://drive.google.com/uc?export=view&amp;id=1-EKUZjP7uzK2m5zBNqFk8eAYZz_XvjMF</Item>
+        <Item medium="image" caption="Foto 16">https://drive.google.com/uc?export=view&amp;id=1y6Bz8vk2MvB6rmuQIGdfS-GidY-gDP4u</Item>
+        <Item medium="image" caption="Foto 17">https://drive.google.com/uc?export=view&amp;id=16ODJ8vFjNTWX7zwqsvJukQtvTUzICqzM</Item>
+        <Item medium="image" caption="Foto 18">https://drive.google.com/uc?export=view&amp;id=1gGEgoO_ar7Dzs0Jb-iUDiUv-wMuVwSx7</Item>
+        <Item medium="image" caption="Foto 19">https://drive.google.com/uc?export=view&amp;id=1LaylHI-8bu_WU7n8D0jV_hlkHtl7mrAt</Item>
+      </Media>
+      <Details>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[alugado vaz. v. livre semi refor.]]></Description>
+        <ListPrice currency="BRL">1500000</ListPrice>
+        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">0</YearlyTax>
+        <LivingArea unit="square metres">112</LivingArea>
+        <LotArea unit="square metres">112</LotArea>
+        <Bedrooms>1</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Suites>0</Suites>
+        <Garage type="Parking Space">0</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="DF">Distrito Federal</State>
+        <City>Brasília</City>
+        <Neighborhood>SQN 104</Neighborhood>
+        <Address>Quadra Principal - SQN 104</Address>
+        <PostalCode>72005-505</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Gold Consultoria (61)98124-7628</Name>
+        <Email>goldconsultoria34@gmail.com</Email>
+        <Telephone>(61) 98124-7628</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>GOLD-103</ListingID>
+      <Title><![CDATA[Apartamento - SQS 212]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Media>
+        <Item medium="image" caption="Foto 1" primary="true">https://drive.google.com/uc?export=view&amp;id=1byEQZe9OTb5a8qrrOlcoqdxC3-nyhSN_</Item>
+        <Item medium="image" caption="Foto 2">https://drive.google.com/uc?export=view&amp;id=1I02QUaGc184tUxV3byiIlaKKYFITw63H</Item>
+        <Item medium="image" caption="Foto 3">https://drive.google.com/uc?export=view&amp;id=1qA0UBhHDFmNwx4T8OzJUTy1TlnJioOMQ</Item>
+        <Item medium="image" caption="Foto 4">https://drive.google.com/uc?export=view&amp;id=1_KFQuywhE5PAnDoLO1JC1UfCAuW4xGCN</Item>
+        <Item medium="image" caption="Foto 5">https://drive.google.com/uc?export=view&amp;id=1jb5qxf8arT59o46h3P6T2iPoYwoVaEdr</Item>
+        <Item medium="image" caption="Foto 6">https://drive.google.com/uc?export=view&amp;id=1mC9smbDS6ps8CmsyVVve6heCtTq1BawD</Item>
+        <Item medium="image" caption="Foto 7">https://drive.google.com/uc?export=view&amp;id=1c56P2KSbCM5-7yDdaBWAvT3NzxNExHM9</Item>
+        <Item medium="image" caption="Foto 8">https://drive.google.com/uc?export=view&amp;id=10XzbZ23SuKp-8rhBPGhB5wEnyZHmcOtS</Item>
+        <Item medium="image" caption="Foto 9">https://drive.google.com/uc?export=view&amp;id=1X2ihza-ftwBppX_goG-yMKJJ3UxFnK9L</Item>
+        <Item medium="image" caption="Foto 10">https://drive.google.com/uc?export=view&amp;id=1byKUSJGJbgq2MlVzVGyfzCGkYp-XX95J</Item>
+        <Item medium="image" caption="Foto 11">https://drive.google.com/uc?export=view&amp;id=1mFcgZxJJnFCE-qKZI40ApdKAS9EzP2UZ</Item>
+        <Item medium="image" caption="Foto 12">https://drive.google.com/uc?export=view&amp;id=1kNRPWir3b2i64stU_CuiZle6SAqkJmjg</Item>
+        <Item medium="image" caption="Foto 13">https://drive.google.com/uc?export=view&amp;id=1cnoP4A2tDjO_c1xHQmJOCDAeI7sKwUUL</Item>
+        <Item medium="image" caption="Foto 14">https://drive.google.com/uc?export=view&amp;id=1-xH_c7GHm_3Kru_Nmpx6vyQ6J0fq3AnN</Item>
+        <Item medium="image" caption="Foto 15">https://drive.google.com/uc?export=view&amp;id=18oKpAuejoU4a8UNLnDEL2EUUckyxLbmj</Item>
+        <Item medium="image" caption="Foto 16">https://drive.google.com/uc?export=view&amp;id=1xZ3kP7cRZzJ47_KVMf-C5QKPdHKUXRHv</Item>
+        <Item medium="image" caption="Foto 17">https://drive.google.com/uc?export=view&amp;id=1CtUCPLxpqQWm9wwkJtnq-oB_764_0j87</Item>
+        <Item medium="image" caption="Foto 18">https://drive.google.com/uc?export=view&amp;id=11EHIpdE63MfZihzFIMPSJLayRHT5rUPU</Item>
+        <Item medium="image" caption="Foto 19">https://drive.google.com/uc?export=view&amp;id=10kys6IfN5Oob4SU13U9TjEMGkhZSO6Oe</Item>
+      </Media>
+      <Details>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[est. 212 do metro espolio]]></Description>
+        <ListPrice currency="BRL">2100000</ListPrice>
+        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">0</YearlyTax>
+        <LivingArea unit="square metres">167</LivingArea>
+        <LotArea unit="square metres">167</LotArea>
+        <Bedrooms>1</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Suites>0</Suites>
+        <Garage type="Parking Space">0</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="DF">Distrito Federal</State>
+        <City>Brasília</City>
+        <Neighborhood>SQS 212</Neighborhood>
+        <Address>Quadra Principal - SQS 212</Address>
+        <PostalCode>72005-505</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Gold Consultoria (61)98124-7628</Name>
+        <Email>goldconsultoria34@gmail.com</Email>
+        <Telephone>(61) 98124-7628</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>GOLD-104</ListingID>
+      <Title><![CDATA[Apartamento - Polo de Modas Guara II]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Media>
+        <Item medium="image" caption="Foto 1" primary="true">https://drive.google.com/uc?export=view&amp;id=13zUfyeaJIzBQ1sF6SB0Dm3p_wV-vyjnp</Item>
+        <Item medium="image" caption="Foto 2">https://drive.google.com/uc?export=view&amp;id=17zy9tG1EcIoDjbJI3_thghxizlzOq4j9</Item>
+        <Item medium="image" caption="Foto 3">https://drive.google.com/uc?export=view&amp;id=19YUAB23CsYpkuAkXSwelP01RMjyzQMh2</Item>
+        <Item medium="image" caption="Foto 4">https://drive.google.com/uc?export=view&amp;id=1KZk9SifilPI7xLsPqkwgtwdylRTbc3aM</Item>
+        <Item medium="image" caption="Foto 5">https://drive.google.com/uc?export=view&amp;id=1P15vKTOGedeAvgoWGb-cutqIi_Qzwodp</Item>
+        <Item medium="image" caption="Foto 6">https://drive.google.com/uc?export=view&amp;id=1SSa3jXxbAFiIpu0g749NbevtHlOW5zAR</Item>
+        <Item medium="image" caption="Foto 7">https://drive.google.com/uc?export=view&amp;id=1je6J1WEiXT-fjLWrHr5FiDl9ZACs_T7Q</Item>
+        <Item medium="image" caption="Foto 8">https://drive.google.com/uc?export=view&amp;id=1nmsE4f1HGFfGYjOuAg-iyWZlfM54VUbQ</Item>
+        <Item medium="image" caption="Foto 9">https://drive.google.com/uc?export=view&amp;id=1tskzBZsbc_zxsjZ6zgDtgjVTNSdPE3q9</Item>
+        <Item medium="image" caption="Foto 10">https://drive.google.com/uc?export=view&amp;id=1xFpEGuArRuDM10ktyoIsztLd32hfD4NH</Item>
+        <Item medium="image" caption="Foto 11">https://drive.google.com/uc?export=view&amp;id=1zRz4bwIyGpGtIcj5I04QX6s4wqfb0N6n</Item>
+        <Item medium="image" caption="Foto 12">https://drive.google.com/uc?export=view&amp;id=1zyoi2t6HOhhtmw6z_WxJOJmwBptLqAi_</Item>
+      </Media>
+      <Details>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[aceita carro estuda proposta]]></Description>
+        <ListPrice currency="BRL">100000</ListPrice>
+        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">0</YearlyTax>
+        <LivingArea unit="square metres">28</LivingArea>
+        <LotArea unit="square metres">28</LotArea>
+        <Bedrooms>1</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Suites>0</Suites>
+        <Garage type="Parking Space">0</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="DF">Distrito Federal</State>
+        <City>Brasília</City>
+        <Neighborhood>Polo de Modas Guara II</Neighborhood>
+        <Address>Quadra Principal - Polo de Modas Guara II</Address>
+        <PostalCode>72005-505</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Gold Consultoria (61)98124-7628</Name>
+        <Email>goldconsultoria34@gmail.com</Email>
+        <Telephone>(61) 98124-7628</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>GOLD-105</ListingID>
+      <Title><![CDATA[Apartamento - Qe 40 cj. C]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Media>
+        <Item medium="image" caption="Foto 1" primary="true">https://drive.google.com/uc?export=view&amp;id=1jfGEcASCggJxtBNbrIF3OR8VUpsNNYLn</Item>
+        <Item medium="image" caption="Foto 2">https://drive.google.com/uc?export=view&amp;id=1be1Ec3Cj3ZP4v-_bGSYtlqN7LuQHYqiG</Item>
+        <Item medium="image" caption="Foto 3">https://drive.google.com/uc?export=view&amp;id=1LpSfLTkWKCh0NKB7lFKAdCEoM4H9DRg7</Item>
+        <Item medium="image" caption="Foto 4">https://drive.google.com/uc?export=view&amp;id=1hn94W6-mADqfQSB2qUpQWYYjH_s4qDW9</Item>
+        <Item medium="image" caption="Foto 5">https://drive.google.com/uc?export=view&amp;id=1hjRM7lu8sWTySIC7aCJGMwKRUHVUNKJW</Item>
+        <Item medium="image" caption="Foto 6">https://drive.google.com/uc?export=view&amp;id=19hxbv45cNv3J0xedSXTWHptb6m49nCZM</Item>
+        <Item medium="image" caption="Foto 7">https://drive.google.com/uc?export=view&amp;id=1ZiL8G3RuDFnZFi2nuoEbyOR5MN2XkaiB</Item>
+        <Item medium="image" caption="Foto 8">https://drive.google.com/uc?export=view&amp;id=1SXQJaa6Y8MRbUsURYSgoNEu8iQQVr3Cz</Item>
+        <Item medium="image" caption="Foto 9">https://drive.google.com/uc?export=view&amp;id=1XCLcFinCmvik0bgCNHdXCLO2XoAtpP36</Item>
+        <Item medium="image" caption="Foto 10">https://drive.google.com/uc?export=view&amp;id=1yKk2RfLQJYaWE8BOXT9unfTfOWFq7Gy8</Item>
+        <Item medium="image" caption="Foto 11">https://drive.google.com/uc?export=view&amp;id=1ui3MRbHnoNHNn6k8_ptC8wMv0NLIo-5S</Item>
+        <Item medium="image" caption="Foto 12">https://drive.google.com/uc?export=view&amp;id=1T9F8Lrl-7_dk42R4welOqps0BczPiGPD</Item>
+        <Item medium="image" caption="Foto 13">https://drive.google.com/uc?export=view&amp;id=15qFlHOMpyHbfRvrl6Byw7pf_ZkFadGb3</Item>
+        <Item medium="image" caption="Foto 14">https://drive.google.com/uc?export=view&amp;id=1fIKosnvXas9yMgGwsB7rCo0YpnJ4nA-7</Item>
+        <Item medium="image" caption="Foto 15">https://drive.google.com/uc?export=view&amp;id=1t60SXaafiWnpGr0TH0-YczqY3Cl4jX3N</Item>
+        <Item medium="image" caption="Foto 16">https://drive.google.com/uc?export=view&amp;id=1IC155VqmbmtzIeCti66lpkLjDhGC0QDy</Item>
+        <Item medium="image" caption="Foto 17">https://drive.google.com/uc?export=view&amp;id=1Sq3fkFbte8-imHcMn1BJFJrMsPx6uA8i</Item>
+        <Item medium="image" caption="Foto 18">https://drive.google.com/uc?export=view&amp;id=1iQrl3Dlx8NZYfu7KvM0hCIbzRia2EoXH</Item>
+        <Item medium="image" caption="Foto 19">https://drive.google.com/uc?export=view&amp;id=1elucsRcpYOROUB8aVEbdD0hy3uBP_u8I</Item>
+        <Item medium="image" caption="Foto 20">https://drive.google.com/uc?export=view&amp;id=1C5DTDZh_1dl-6e_NosPuZHy5Hpx0GBH-</Item>
+        <Item medium="image" caption="Foto 21">https://drive.google.com/uc?export=view&amp;id=1ItgBkRyeTzU2FEquy5fzgwdPC1P-0vrV</Item>
+        <Item medium="image" caption="Foto 22">https://drive.google.com/uc?export=view&amp;id=1-J7HKDbG-5SqfPQiWjBZAFN7Mgwbz0a6</Item>
+        <Item medium="image" caption="Foto 23">https://drive.google.com/uc?export=view&amp;id=19d949PcooWJZ88i0nnfQtrlgXTh6ipDC</Item>
+        <Item medium="image" caption="Foto 24">https://drive.google.com/uc?export=view&amp;id=1nRej2nzuKi8mw2epv1rd2T-EPT6w4CfB</Item>
+        <Item medium="image" caption="Foto 25">https://drive.google.com/uc?export=view&amp;id=1C1GRQOsGsDYq6k_s4woRHg1jH3brNxnZ</Item>
+        <Item medium="image" caption="Foto 26">https://drive.google.com/uc?export=view&amp;id=1lQltiqj_qw5i0YLofeny1dQuWNxpXK-q</Item>
+        <Item medium="image" caption="Foto 27">https://drive.google.com/uc?export=view&amp;id=15ILLwlUdNNjwiluOZISbtQF5WPJ33foo</Item>
+        <Item medium="image" caption="Foto 28">https://drive.google.com/uc?export=view&amp;id=1INLYwKBSNCjgZw7pUWQD0G0J9BkN1Pk_</Item>
+        <Item medium="image" caption="Foto 29">https://drive.google.com/uc?export=view&amp;id=1aQANnSX4o9MU1AqtNXS89o2vkqHs39kB</Item>
+        <Item medium="image" caption="Foto 30">https://drive.google.com/uc?export=view&amp;id=1TmI2MTc3gDKylwXsBezMNZuBfRHxTOkH</Item>
+      </Media>
+      <Details>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Vista livre elev sendo implant.]]></Description>
+        <ListPrice currency="BRL">210000</ListPrice>
+        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">0</YearlyTax>
+        <LivingArea unit="square metres">60</LivingArea>
+        <LotArea unit="square metres">60</LotArea>
+        <Bedrooms>1</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Suites>0</Suites>
+        <Garage type="Parking Space">0</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="DF">Distrito Federal</State>
+        <City>Brasília</City>
+        <Neighborhood>Qe 40 cj. C</Neighborhood>
+        <Address>Quadra Principal - Qe 40 cj. C</Address>
+        <PostalCode>72005-505</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Gold Consultoria (61)98124-7628</Name>
+        <Email>goldconsultoria34@gmail.com</Email>
+        <Telephone>(61) 98124-7628</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>GOLD-106</ListingID>
+      <Title><![CDATA[Apartamento - A.E 4 Olimpique]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Media>
+      </Media>
+      <Details>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[nasc. ac. financ. and. alto]]></Description>
+        <ListPrice currency="BRL">965000</ListPrice>
+        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">0</YearlyTax>
+        <LivingArea unit="square metres">65</LivingArea>
+        <LotArea unit="square metres">65</LotArea>
+        <Bedrooms>1</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Suites>0</Suites>
+        <Garage type="Parking Space">0</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="DF">Distrito Federal</State>
+        <City>Brasília</City>
+        <Neighborhood>A.E 4 Olimpique</Neighborhood>
+        <Address>Quadra Principal - A.E 4 Olimpique</Address>
+        <PostalCode>72005-505</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Gold Consultoria (61)98124-7628</Name>
+        <Email>goldconsultoria34@gmail.com</Email>
+        <Telephone>(61) 98124-7628</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>GOLD-107</ListingID>
+      <Title><![CDATA[Apartamento - QI 23 Guara II]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Media>
+      </Media>
+      <Details>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[px est. Guara do metro]]></Description>
+        <ListPrice currency="BRL">575000</ListPrice>
+        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">0</YearlyTax>
+        <LivingArea unit="square metres">65</LivingArea>
+        <LotArea unit="square metres">65</LotArea>
+        <Bedrooms>1</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Suites>0</Suites>
+        <Garage type="Parking Space">0</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="DF">Distrito Federal</State>
+        <City>Brasília</City>
+        <Neighborhood>QI 23 Guara II</Neighborhood>
+        <Address>Quadra Principal - QI 23 Guara II</Address>
+        <PostalCode>72005-505</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Gold Consultoria (61)98124-7628</Name>
+        <Email>goldconsultoria34@gmail.com</Email>
+        <Telephone>(61) 98124-7628</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>GOLD-108</ListingID>
+      <Title><![CDATA[Apartamento - SGAN 911 Norte]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Media>
+      </Media>
+      <Details>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[cond fechado port. 24 horas]]></Description>
+        <ListPrice currency="BRL">350000</ListPrice>
+        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">0</YearlyTax>
+        <LivingArea unit="square metres">28</LivingArea>
+        <LotArea unit="square metres">28</LotArea>
+        <Bedrooms>1</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Suites>0</Suites>
+        <Garage type="Parking Space">0</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="DF">Distrito Federal</State>
+        <City>Brasília</City>
+        <Neighborhood>SGAN 911 Norte</Neighborhood>
+        <Address>Quadra Principal - SGAN 911 Norte</Address>
+        <PostalCode>72005-505</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Gold Consultoria (61)98124-7628</Name>
+        <Email>goldconsultoria34@gmail.com</Email>
+        <Telephone>(61) 98124-7628</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>GOLD-109</ListingID>
+      <Title><![CDATA[Apartamento - QD 203 Aguas Claras]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Media>
+        <Item medium="image" caption="Foto 1" primary="true">https://drive.google.com/uc?export=view&amp;id=15fChf99S37uKon_ekBx6vvNT5tqW0SiI</Item>
+        <Item medium="image" caption="Foto 2">https://drive.google.com/uc?export=view&amp;id=1z90H_xnZA0LEKknRaaE3BIyCLLlAePeG</Item>
+        <Item medium="image" caption="Foto 3">https://drive.google.com/uc?export=view&amp;id=1wxYYgTsIBnIq3EvoT4alK8bG3GQs4FBH</Item>
+        <Item medium="image" caption="Foto 4">https://drive.google.com/uc?export=view&amp;id=1nyx8DPJLGXHgdGz68fY5BVzdhsM2tEFc</Item>
+        <Item medium="image" caption="Foto 5">https://drive.google.com/uc?export=view&amp;id=1sSDmymQXZ9I1vsAXIf8-EkmB0rgFPI_U</Item>
+        <Item medium="image" caption="Foto 6">https://drive.google.com/uc?export=view&amp;id=1OAJFRLYItBKoYtANIeQZXVr-09U7T2Lg</Item>
+        <Item medium="image" caption="Foto 7">https://drive.google.com/uc?export=view&amp;id=1GCeedHXsm93lb2yQRrzA1DoI287u90v0</Item>
+        <Item medium="image" caption="Foto 8">https://drive.google.com/uc?export=view&amp;id=1YA8Evik5Vhz5fXnJkve2AdfUYpMJljs4</Item>
+        <Item medium="image" caption="Foto 9">https://drive.google.com/uc?export=view&amp;id=1rc7n8qY9-hHynJ-hHRWWc9ifb7uVuspp</Item>
+      </Media>
+      <Details>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[cond. fech. lazer completo fte /park]]></Description>
+        <ListPrice currency="BRL">1460000</ListPrice>
+        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">0</YearlyTax>
+        <LivingArea unit="square metres">127</LivingArea>
+        <LotArea unit="square metres">127</LotArea>
+        <Bedrooms>1</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Suites>0</Suites>
+        <Garage type="Parking Space">0</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="DF">Distrito Federal</State>
+        <City>Brasília</City>
+        <Neighborhood>QD 203 Aguas Claras</Neighborhood>
+        <Address>Quadra Principal - QD 203 Aguas Claras</Address>
+        <PostalCode>72005-505</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Gold Consultoria (61)98124-7628</Name>
+        <Email>goldconsultoria34@gmail.com</Email>
+        <Telephone>(61) 98124-7628</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>GOLD-110</ListingID>
+      <Title><![CDATA[Apartamento - SQSW 100 Sudoeste]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Media>
+        <Item medium="image" caption="Foto 1" primary="true">https://drive.google.com/uc?export=view&amp;id=16qibEEuGKUlaN4L6M7693hRnCg3o38fe</Item>
+        <Item medium="image" caption="Foto 2">https://drive.google.com/uc?export=view&amp;id=1B9-rEp-dz5dRmdGscum3HwTRxJX2s_kd</Item>
+        <Item medium="image" caption="Foto 3">https://drive.google.com/uc?export=view&amp;id=1XKzK0juSjoRw8DxMs0kBk78It3X1Y3a_</Item>
+        <Item medium="image" caption="Foto 4">https://drive.google.com/uc?export=view&amp;id=1fqbqLlPpDdQ_Xqb3E9S9GlCoW5PVWBx7</Item>
+        <Item medium="image" caption="Foto 5">https://drive.google.com/uc?export=view&amp;id=1avHWA6b_5zk3B54erdFi8hX1GnbELT_L</Item>
+        <Item medium="image" caption="Foto 6">https://drive.google.com/uc?export=view&amp;id=1Xsvx-TN8VCb6yDUBwmvnQ5QxLPBn8-qc</Item>
+        <Item medium="image" caption="Foto 7">https://drive.google.com/uc?export=view&amp;id=1o1eXRgDs8y4n-U1eRGIT_EiQ20qbFiur</Item>
+        <Item medium="image" caption="Foto 8">https://drive.google.com/uc?export=view&amp;id=1AbULLJWoXTi_3SiZa_E0_VI8ToApwy_3</Item>
+        <Item medium="image" caption="Foto 9">https://drive.google.com/uc?export=view&amp;id=1_J7ftDLpiZLjyWUH3yKrfRmrZIE8rICi</Item>
+        <Item medium="image" caption="Foto 10">https://drive.google.com/uc?export=view&amp;id=1Z5o-4P2g-_ss3z0jyz26G2wYH_DvjAtj</Item>
+        <Item medium="image" caption="Foto 11">https://drive.google.com/uc?export=view&amp;id=146dSLjv7U8-WUx1AFNakR0Q1NW7wwPS1</Item>
+        <Item medium="image" caption="Foto 12">https://drive.google.com/uc?export=view&amp;id=1JiUNwXCQ13W53jRmWm3wbXeblFkvSQO2</Item>
+        <Item medium="image" caption="Foto 13">https://drive.google.com/uc?export=view&amp;id=1rxNR7y3fh8kAPhejV6X0wsI0iBI1fXjF</Item>
+        <Item medium="image" caption="Foto 14">https://drive.google.com/uc?export=view&amp;id=1Zh_l0xNmkvhmMOAPOGuI4cbOBxVmj_Jk</Item>
+        <Item medium="image" caption="Foto 15">https://drive.google.com/uc?export=view&amp;id=1-EKUZjP7uzK2m5zBNqFk8eAYZz_XvjMF</Item>
+        <Item medium="image" caption="Foto 16">https://drive.google.com/uc?export=view&amp;id=1y6Bz8vk2MvB6rmuQIGdfS-GidY-gDP4u</Item>
+        <Item medium="image" caption="Foto 17">https://drive.google.com/uc?export=view&amp;id=16ODJ8vFjNTWX7zwqsvJukQtvTUzICqzM</Item>
+        <Item medium="image" caption="Foto 18">https://drive.google.com/uc?export=view&amp;id=1gGEgoO_ar7Dzs0Jb-iUDiUv-wMuVwSx7</Item>
+        <Item medium="image" caption="Foto 19">https://drive.google.com/uc?export=view&amp;id=1LaylHI-8bu_WU7n8D0jV_hlkHtl7mrAt</Item>
+      </Media>
+      <Details>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[oportunidade unica no Sudoeste]]></Description>
+        <ListPrice currency="BRL">1200000</ListPrice>
+        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">0</YearlyTax>
+        <LivingArea unit="square metres">87</LivingArea>
+        <LotArea unit="square metres">87</LotArea>
+        <Bedrooms>1</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Suites>0</Suites>
+        <Garage type="Parking Space">0</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="DF">Distrito Federal</State>
+        <City>Brasília</City>
+        <Neighborhood>SQSW 100 Sudoeste</Neighborhood>
+        <Address>Quadra Principal - SQSW 100 Sudoeste</Address>
+        <PostalCode>72005-505</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Gold Consultoria (61)98124-7628</Name>
+        <Email>goldconsultoria34@gmail.com</Email>
+        <Telephone>(61) 98124-7628</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>GOLD-111</ListingID>
+      <Title><![CDATA[Sala Comercial - Praça do DI Tag. Norte]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Media>
+      </Media>
+      <Details>
+        <PropertyType>Commercial / Office</PropertyType>
+        <Description><![CDATA[Mobiliada ar cond. comp. intern]]></Description>
+        <ListPrice currency="BRL">100000</ListPrice>
+        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">0</YearlyTax>
+        <LivingArea unit="square metres">30</LivingArea>
+        <LotArea unit="square metres">30</LotArea>
+        <Bedrooms>1</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Suites>0</Suites>
+        <Garage type="Parking Space">0</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="DF">Distrito Federal</State>
+        <City>Brasília</City>
+        <Neighborhood>Praça do DI Tag. Norte</Neighborhood>
+        <Address>Quadra Principal - Praça do DI Tag. Norte</Address>
+        <PostalCode>72005-505</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Gold Consultoria (61)98124-7628</Name>
+        <Email>goldconsultoria34@gmail.com</Email>
+        <Telephone>(61) 98124-7628</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>GOLD-112</ListingID>
+      <Title><![CDATA[Casa - QI 18 Guara I]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Media>
+        <Item medium="image" caption="Foto 1" primary="true">https://drive.google.com/uc?export=view&amp;id=1uA7scBFqiwWSlxUHqpreu6am-My6oZe2</Item>
+        <Item medium="image" caption="Foto 2">https://drive.google.com/uc?export=view&amp;id=1_RjiyS-_o5M8aPcKCSjhafPLCcwedtqU</Item>
+        <Item medium="image" caption="Foto 3">https://drive.google.com/uc?export=view&amp;id=1oe-Hp5LP8Xk4bnscI-86ObWnZoelIsO4</Item>
+        <Item medium="image" caption="Foto 4">https://drive.google.com/uc?export=view&amp;id=1JWU2R0SrIpqPkyA3xXqvJgqEdPE5q4vU</Item>
+        <Item medium="image" caption="Foto 5">https://drive.google.com/uc?export=view&amp;id=1fTHysp7YsC4Tc0yakb_qAMi_IW1jw4z5</Item>
+        <Item medium="image" caption="Foto 6">https://drive.google.com/uc?export=view&amp;id=1uplL0Uc3sVE58X2uOEuExehvhzFNHexI</Item>
+        <Item medium="image" caption="Foto 7">https://drive.google.com/uc?export=view&amp;id=1PS_EynJyQYR-oazSbkRwRUz2EuVeuyP8</Item>
+        <Item medium="image" caption="Foto 8">https://drive.google.com/uc?export=view&amp;id=1N72uXgu6pd2ZxOedAq4qwNtFoOwL-Ki7</Item>
+        <Item medium="image" caption="Foto 9">https://drive.google.com/uc?export=view&amp;id=1w9MhK91_p7nGmpe3U2SsaA_GxIjupwMy</Item>
+        <Item medium="image" caption="Foto 10">https://drive.google.com/uc?export=view&amp;id=1YncUjG24iL3zzU4T2u1yCO64n5S_-6gT</Item>
+        <Item medium="image" caption="Foto 11">https://drive.google.com/uc?export=view&amp;id=1NM_VBkXmP_WFRK5dCDdh2vhBomQQY0sp</Item>
+        <Item medium="image" caption="Foto 12">https://drive.google.com/uc?export=view&amp;id=1aURhDObrjCDxUImc-33W_QP533aa4Ptq</Item>
+        <Item medium="image" caption="Foto 13">https://drive.google.com/uc?export=view&amp;id=1VxDuD-PXhceQjMoAajsry4hMb_Jl8_eZ</Item>
+        <Item medium="image" caption="Foto 14">https://drive.google.com/uc?export=view&amp;id=18VLELr64VY4Irz_9yJ0NMd4A92l7Y_iV</Item>
+        <Item medium="image" caption="Foto 15">https://drive.google.com/uc?export=view&amp;id=1qQ0fxKOG6swv4DIonimWU31V6TP0Oy2j</Item>
+        <Item medium="image" caption="Foto 16">https://drive.google.com/uc?export=view&amp;id=18lSQpRIpEtYrRXz8A9hdk7qZWI3jaZuZ</Item>
+        <Item medium="image" caption="Foto 17">https://drive.google.com/uc?export=view&amp;id=1AzDEXqlL8nnsG6S7ekO6wouRMV--EegD</Item>
+        <Item medium="image" caption="Foto 18">https://drive.google.com/uc?export=view&amp;id=1l1JR1BaLYnuTAxHpVA3AAI43HiCf0ENo</Item>
+        <Item medium="image" caption="Foto 19">https://drive.google.com/uc?export=view&amp;id=1Vp5rEh-Y3tFd-VRtsxds9l9zVENWAY_R</Item>
+        <Item medium="image" caption="Foto 20">https://drive.google.com/uc?export=view&amp;id=1z05aoaIi_z2kELE46UG0VOV5QZsKnk_H</Item>
+        <Item medium="image" caption="Foto 21">https://drive.google.com/uc?export=view&amp;id=1oxMt58J2Rd91_q0PDuFTxzptnzDAYoDI</Item>
+      </Media>
+      <Details>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Aceita imovel  financ. px metro]]></Description>
+        <ListPrice currency="BRL">950000</ListPrice>
+        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">0</YearlyTax>
+        <LivingArea unit="square metres">260</LivingArea>
+        <LotArea unit="square metres">260</LotArea>
+        <Bedrooms>1</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Suites>0</Suites>
+        <Garage type="Parking Space">0</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="DF">Distrito Federal</State>
+        <City>Brasília</City>
+        <Neighborhood>QI 18 Guara I</Neighborhood>
+        <Address>Quadra Principal - QI 18 Guara I</Address>
+        <PostalCode>72005-505</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Gold Consultoria (61)98124-7628</Name>
+        <Email>goldconsultoria34@gmail.com</Email>
+        <Telephone>(61) 98124-7628</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>GOLD-113</ListingID>
+      <Title><![CDATA[Casa - QI 23 Lago Sul]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Media>
+      </Media>
+      <Details>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Ac. imovel financ. est. proposta]]></Description>
+        <ListPrice currency="BRL">3500000</ListPrice>
+        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">0</YearlyTax>
+        <LivingArea unit="square metres">400</LivingArea>
+        <LotArea unit="square metres">400</LotArea>
+        <Bedrooms>1</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Suites>0</Suites>
+        <Garage type="Parking Space">0</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="DF">Distrito Federal</State>
+        <City>Brasília</City>
+        <Neighborhood>QI 23 Lago Sul</Neighborhood>
+        <Address>Quadra Principal - QI 23 Lago Sul</Address>
+        <PostalCode>72005-505</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Gold Consultoria (61)98124-7628</Name>
+        <Email>goldconsultoria34@gmail.com</Email>
+        <Telephone>(61) 98124-7628</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>GOLD-114</ListingID>
+      <Title><![CDATA[Casa - Jardim Botanico]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Media>
+        <Item medium="image" caption="Foto 1" primary="true">https://drive.google.com/uc?export=view&amp;id=10CrT_9PeNTJ_UpLf8bKLe_272F6pyJ0M</Item>
+        <Item medium="image" caption="Foto 2">https://drive.google.com/uc?export=view&amp;id=10xMeX5_SUADPe7m5Gu-L_cTVheX_A1zP</Item>
+        <Item medium="image" caption="Foto 3">https://drive.google.com/uc?export=view&amp;id=13YzmwOOs7b3f7xIU5mTbwg1qx-twcJxk</Item>
+        <Item medium="image" caption="Foto 4">https://drive.google.com/uc?export=view&amp;id=13zzgfhCFIp5X0LSJBbts7twt-32o4quj</Item>
+        <Item medium="image" caption="Foto 5">https://drive.google.com/uc?export=view&amp;id=15mYHQi4oyZWOajyfzMWxspuNr4eq42xa</Item>
+        <Item medium="image" caption="Foto 6">https://drive.google.com/uc?export=view&amp;id=193kHGiLf7rpGHHpPbiTKbksBfH4ytbaV</Item>
+        <Item medium="image" caption="Foto 7">https://drive.google.com/uc?export=view&amp;id=1DeXjrQuLww7rmZ8pXGHPIOP0gFoPYNDY</Item>
+        <Item medium="image" caption="Foto 8">https://drive.google.com/uc?export=view&amp;id=1J8L-ly2Wd99hXK-dsX6XZDB3PWn0jom_</Item>
+        <Item medium="image" caption="Foto 9">https://drive.google.com/uc?export=view&amp;id=1LpBVCQa8pNDTkuiNAA0FbtpdwZ0Uin1P</Item>
+        <Item medium="image" caption="Foto 10">https://drive.google.com/uc?export=view&amp;id=1LrnceqXP2PhmfHkD5UtDuPTP-K52afu1</Item>
+        <Item medium="image" caption="Foto 11">https://drive.google.com/uc?export=view&amp;id=1NgfTI5iybVJI58hOiy-6AYu8179KatZZ</Item>
+        <Item medium="image" caption="Foto 12">https://drive.google.com/uc?export=view&amp;id=1OcLNx6cvIs6Himbp5rHwKozqJry3KzoS</Item>
+        <Item medium="image" caption="Foto 13">https://drive.google.com/uc?export=view&amp;id=1PgTOD3H5MrOhJzDM1bwcy4_-gieDaRXl</Item>
+        <Item medium="image" caption="Foto 14">https://drive.google.com/uc?export=view&amp;id=1WR8whhUctL8C_Q8IfI9r-CQcK3RhzK0o</Item>
+        <Item medium="image" caption="Foto 15">https://drive.google.com/uc?export=view&amp;id=1gn9XwxZ0dMg3kJp96YoA87rNvD0bqqk_</Item>
+        <Item medium="image" caption="Foto 16">https://drive.google.com/uc?export=view&amp;id=1i9W4BePlfW_qTift6LoV0UBh313LZECi</Item>
+        <Item medium="image" caption="Foto 17">https://drive.google.com/uc?export=view&amp;id=1l9e4U-DzZNptKWf1i_eXe9jwxbz_r08u</Item>
+        <Item medium="image" caption="Foto 18">https://drive.google.com/uc?export=view&amp;id=1lWtouJl01F7YiDAttPl021WTML3GZ-IJ</Item>
+        <Item medium="image" caption="Foto 19">https://drive.google.com/uc?export=view&amp;id=1lYGeoPZKyFGAwosdD_3sYaRvDStMSMNm</Item>
+        <Item medium="image" caption="Foto 20">https://drive.google.com/uc?export=view&amp;id=1lellvCCrofgXCEwEaOP2rVdaVk76WjsB</Item>
+        <Item medium="image" caption="Foto 21">https://drive.google.com/uc?export=view&amp;id=1lpaDoCuGZeR8f4E4VxQQ1Po03I8pqqM2</Item>
+        <Item medium="image" caption="Foto 22">https://drive.google.com/uc?export=view&amp;id=1n_OQ3DY9mbx32QXpRLQ18fdmaJAbTOxq</Item>
+        <Item medium="image" caption="Foto 23">https://drive.google.com/uc?export=view&amp;id=1neoP-Wp0QcY5iVn5j-Lz2GDYJ37W-Yg5</Item>
+        <Item medium="image" caption="Foto 24">https://drive.google.com/uc?export=view&amp;id=1nrMC_GbPY9DrinyoXwuU01iBXxrXoa7N</Item>
+        <Item medium="image" caption="Foto 25">https://drive.google.com/uc?export=view&amp;id=1p6Y-ZIKy9j5SnY0F2TCNN1LNYwFUDAny</Item>
+        <Item medium="image" caption="Foto 26">https://drive.google.com/uc?export=view&amp;id=1qOGrbB4IzoMwPuxKVqGYvLWqzNGyzG7b</Item>
+        <Item medium="image" caption="Foto 27">https://drive.google.com/uc?export=view&amp;id=1yGHoc1nmxfWSgfSfP0IQz6nlcZC3sAth</Item>
+        <Item medium="image" caption="Foto 28">https://drive.google.com/uc?export=view&amp;id=1yn826s9R2e27pM1Ldh6N1BaOWIk_yE1W</Item>
+      </Media>
+      <Details>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[piscina churrasq. ac. imovel]]></Description>
+        <ListPrice currency="BRL">1500000</ListPrice>
+        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">0</YearlyTax>
+        <LivingArea unit="square metres">200</LivingArea>
+        <LotArea unit="square metres">200</LotArea>
+        <Bedrooms>1</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Suites>0</Suites>
+        <Garage type="Parking Space">0</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="DF">Distrito Federal</State>
+        <City>Brasília</City>
+        <Neighborhood>Jardim Botanico</Neighborhood>
+        <Address>Quadra Principal - Jardim Botanico</Address>
         <PostalCode>72005-505</PostalCode>
       </Location>
       <ContactInfo>
