@@ -4,7 +4,7 @@
     <Provider>Gold Consultoria</Provider>
     <Email>goldconsultoria34@gmail.com</Email>
     <ContactName>Walter Negri - (61) 98124-7628</ContactName>
-    <PublishDate>2026-11-16T22:34:11.043Z</PublishDate>
+    <PublishDate>2026-11-17T01:26:57.791Z</PublishDate>
   </Header>
   <Listings>
     <Listing>
@@ -12,6 +12,22 @@
       <Title><![CDATA[Apartamento - Vicente Pires EPTG]]></Title>
       <TransactionType>For Sale</TransactionType>
       <Media>
+        <Item medium="image" caption="Foto 1" primary="true">https://drive.google.com/uc?export=view&amp;id=1YO5W9gwAZ8ENHxZZxwGSF5iecn_H32bK</Item>
+        <Item medium="image" caption="Foto 2">https://drive.google.com/uc?export=view&amp;id=1KoLIf3vE7msnZ-rho4lRfD7VnWbAoX1P</Item>
+        <Item medium="image" caption="Foto 3">https://drive.google.com/uc?export=view&amp;id=16F_ym8RxPqVVgolTKuhqkB7kEaNxSeuk</Item>
+        <Item medium="image" caption="Foto 4">https://drive.google.com/uc?export=view&amp;id=1vN4KjCSXmnm70X0cbldF_AH7XOM2QDqq</Item>
+        <Item medium="image" caption="Foto 5">https://drive.google.com/uc?export=view&amp;id=16qpfjVHb89WveRtTYpcOIwUsbNHGez6O</Item>
+        <Item medium="image" caption="Foto 6">https://drive.google.com/uc?export=view&amp;id=10qouEjEDMOZLmxr9BYFo5KppGjl1KGXP</Item>
+        <Item medium="image" caption="Foto 7">https://drive.google.com/uc?export=view&amp;id=1XiAf3grKqTpicgtUdO03eioM7xp4lbvn</Item>
+        <Item medium="image" caption="Foto 8">https://drive.google.com/uc?export=view&amp;id=1xMvYDp4jCDUfVJsYNVB2gzMBLmdgbzqe</Item>
+        <Item medium="image" caption="Foto 9">https://drive.google.com/uc?export=view&amp;id=1i0-Eg4drQYzpjf3Z1rOhs4WLBUSLjrmg</Item>
+        <Item medium="image" caption="Foto 10">https://drive.google.com/uc?export=view&amp;id=1WvbBwqzb137se3jtZwKUpSpVZmpYuRoj</Item>
+        <Item medium="image" caption="Foto 11">https://drive.google.com/uc?export=view&amp;id=1j-qbISIxYRXzexxPZl0TVK1iqW-_SplL</Item>
+        <Item medium="image" caption="Foto 12">https://drive.google.com/uc?export=view&amp;id=1p9h6pEi2WFoObTZUotTN8smH1M6_KWpN</Item>
+        <Item medium="image" caption="Foto 13">https://drive.google.com/uc?export=view&amp;id=15GUB1L89aWfm1NUkuFK3mC1kk-MLGY_P</Item>
+        <Item medium="image" caption="Foto 14">https://drive.google.com/uc?export=view&amp;id=14ItuOEt36mEHH0b9QTrxCl5HOKXd-4bq</Item>
+        <Item medium="image" caption="Foto 15">https://drive.google.com/uc?export=view&amp;id=1vUIZ1SnpEeLQ2Wv8AxwcqU2qA3cyAVQQ</Item>
+        <Item medium="image" caption="Foto 16">https://drive.google.com/uc?export=view&amp;id=1EGC7x0vPShDSnulnN9SXYrfd56kcqr3O</Item>
       </Media>
       <Details>
         <PropertyType>Residential / Apartment</PropertyType>
