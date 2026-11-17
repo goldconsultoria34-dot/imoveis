@@ -4,7 +4,7 @@
     <Provider>Gold Consultoria</Provider>
     <Email>goldconsultoria34@gmail.com</Email>
     <ContactName>Walter Negri - (61) 98124-7628</ContactName>
-    <PublishDate>2026-11-17T14:52:18.161Z</PublishDate>
+    <PublishDate>2026-11-17T18:54:48.802Z</PublishDate>
   </Header>
   <Listings>
     <Listing>
@@ -89,10 +89,10 @@
         <YearlyTax currency="BRL">0</YearlyTax>
         <LivingArea unit="square metres">112</LivingArea>
         <LotArea unit="square metres">112</LotArea>
-        <Bedrooms>1</Bedrooms>
+        <Bedrooms>3</Bedrooms>
         <Bathrooms>1</Bathrooms>
-        <Suites>0</Suites>
-        <Garage type="Parking Space">0</Garage>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">1</Garage>
       </Details>
       <Location displayAddress="Neighborhood">
         <Country abbreviation="BR">Brasil</Country>
@@ -141,10 +141,10 @@
         <YearlyTax currency="BRL">0</YearlyTax>
         <LivingArea unit="square metres">167</LivingArea>
         <LotArea unit="square metres">167</LotArea>
-        <Bedrooms>1</Bedrooms>
+        <Bedrooms>3</Bedrooms>
         <Bathrooms>1</Bathrooms>
-        <Suites>0</Suites>
-        <Garage type="Parking Space">0</Garage>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">1</Garage>
       </Details>
       <Location displayAddress="Neighborhood">
         <Country abbreviation="BR">Brasil</Country>
@@ -249,10 +249,10 @@
         <YearlyTax currency="BRL">0</YearlyTax>
         <LivingArea unit="square metres">60</LivingArea>
         <LotArea unit="square metres">60</LotArea>
-        <Bedrooms>1</Bedrooms>
+        <Bedrooms>2</Bedrooms>
         <Bathrooms>1</Bathrooms>
-        <Suites>0</Suites>
-        <Garage type="Parking Space">0</Garage>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">1</Garage>
       </Details>
       <Location displayAddress="Neighborhood">
         <Country abbreviation="BR">Brasil</Country>
@@ -282,10 +282,10 @@
         <YearlyTax currency="BRL">0</YearlyTax>
         <LivingArea unit="square metres">65</LivingArea>
         <LotArea unit="square metres">65</LotArea>
-        <Bedrooms>1</Bedrooms>
+        <Bedrooms>3</Bedrooms>
         <Bathrooms>1</Bathrooms>
-        <Suites>0</Suites>
-        <Garage type="Parking Space">0</Garage>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">1</Garage>
       </Details>
       <Location displayAddress="Neighborhood">
         <Country abbreviation="BR">Brasil</Country>
@@ -315,10 +315,10 @@
         <YearlyTax currency="BRL">0</YearlyTax>
         <LivingArea unit="square metres">65</LivingArea>
         <LotArea unit="square metres">65</LotArea>
-        <Bedrooms>1</Bedrooms>
-        <Bathrooms>1</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>2</Bathrooms>
         <Suites>0</Suites>
-        <Garage type="Parking Space">0</Garage>
+        <Garage type="Parking Space">1</Garage>
       </Details>
       <Location displayAddress="Neighborhood">
         <Country abbreviation="BR">Brasil</Country>
@@ -390,10 +390,10 @@
         <YearlyTax currency="BRL">0</YearlyTax>
         <LivingArea unit="square metres">127</LivingArea>
         <LotArea unit="square metres">127</LotArea>
-        <Bedrooms>1</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Suites>0</Suites>
-        <Garage type="Parking Space">0</Garage>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Suites>2</Suites>
+        <Garage type="Parking Space">2</Garage>
       </Details>
       <Location displayAddress="Neighborhood">
         <Country abbreviation="BR">Brasil</Country>
@@ -442,10 +442,10 @@
         <YearlyTax currency="BRL">0</YearlyTax>
         <LivingArea unit="square metres">87</LivingArea>
         <LotArea unit="square metres">87</LotArea>
-        <Bedrooms>1</Bedrooms>
+        <Bedrooms>3</Bedrooms>
         <Bathrooms>1</Bathrooms>
-        <Suites>0</Suites>
-        <Garage type="Parking Space">0</Garage>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">1</Garage>
       </Details>
       <Location displayAddress="Neighborhood">
         <Country abbreviation="BR">Brasil</Country>
@@ -475,7 +475,7 @@
         <YearlyTax currency="BRL">0</YearlyTax>
         <LivingArea unit="square metres">30</LivingArea>
         <LotArea unit="square metres">30</LotArea>
-        <Bedrooms>1</Bedrooms>
+        <Bedrooms>0</Bedrooms>
         <Bathrooms>1</Bathrooms>
         <Suites>0</Suites>
         <Garage type="Parking Space">0</Garage>
@@ -529,10 +529,10 @@
         <YearlyTax currency="BRL">0</YearlyTax>
         <LivingArea unit="square metres">260</LivingArea>
         <LotArea unit="square metres">260</LotArea>
-        <Bedrooms>1</Bedrooms>
+        <Bedrooms>4</Bedrooms>
         <Bathrooms>1</Bathrooms>
         <Suites>0</Suites>
-        <Garage type="Parking Space">0</Garage>
+        <Garage type="Parking Space">4</Garage>
       </Details>
       <Location displayAddress="Neighborhood">
         <Country abbreviation="BR">Brasil</Country>
@@ -561,11 +561,11 @@
         <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
         <YearlyTax currency="BRL">0</YearlyTax>
         <LivingArea unit="square metres">400</LivingArea>
-        <LotArea unit="square metres">400</LotArea>
-        <Bedrooms>1</Bedrooms>
+        <LotArea unit="square metres">800</LotArea>
+        <Bedrooms>4</Bedrooms>
         <Bathrooms>1</Bathrooms>
         <Suites>0</Suites>
-        <Garage type="Parking Space">0</Garage>
+        <Garage type="Parking Space">4</Garage>
       </Details>
       <Location displayAddress="Neighborhood">
         <Country abbreviation="BR">Brasil</Country>
@@ -622,10 +622,10 @@
         <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
         <YearlyTax currency="BRL">0</YearlyTax>
         <LivingArea unit="square metres">200</LivingArea>
-        <LotArea unit="square metres">200</LotArea>
-        <Bedrooms>1</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-        <Suites>0</Suites>
+        <LotArea unit="square metres">800</LotArea>
+        <Bedrooms>4</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Suites>2</Suites>
         <Garage type="Parking Space">0</Garage>
       </Details>
       <Location displayAddress="Neighborhood">
