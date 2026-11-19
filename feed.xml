@@ -4,7 +4,7 @@
     <Provider>Gold Consultoria</Provider>
     <Email>goldconsultoria34@gmail.com</Email>
     <ContactName>Walter Negri - (61) 98124-7628</ContactName>
-    <PublishDate>2026-11-19T03:17:14.444Z</PublishDate>
+    <PublishDate>2026-11-19T13:23:20.013Z</PublishDate>
   </Header>
   <Listings>
     <Listing>
@@ -278,6 +278,15 @@
       <Title><![CDATA[Apartamento - A.E 4 Olimpique]]></Title>
       <TransactionType>For Sale</TransactionType>
       <Media>
+        <Item medium="image" caption="Foto 1" primary="true">https://lh3.googleusercontent.com/d/1TkrhEfrq7YMLDX8qOrNvhMgba629TFha=w1200</Item>
+        <Item medium="image" caption="Foto 2">https://lh3.googleusercontent.com/d/1iA56XMbd8sfZQTpnRq5vXzWrW8hBTtUQ=w1200</Item>
+        <Item medium="image" caption="Foto 3">https://lh3.googleusercontent.com/d/1Ct-46mSyrxFBdFZqDBq8RxY5eFTB8RYZ=w1200</Item>
+        <Item medium="image" caption="Foto 4">https://lh3.googleusercontent.com/d/1ZanHGExevXTyzKqKCtpRWI5qs4eGiElC=w1200</Item>
+        <Item medium="image" caption="Foto 5">https://lh3.googleusercontent.com/d/1nvf1UONga-e3Lfj2qkfIfCBF6n_cLQ_5=w1200</Item>
+        <Item medium="image" caption="Foto 6">https://lh3.googleusercontent.com/d/1AjEB02cTlLemjh3URx9Q_ZJMrcmsTG4c=w1200</Item>
+        <Item medium="image" caption="Foto 7">https://lh3.googleusercontent.com/d/1CYcup2MG4AYQrBJNpwlBF5jslXCNm0jF=w1200</Item>
+        <Item medium="image" caption="Foto 8">https://lh3.googleusercontent.com/d/11IgHWjfZuE0hNjwOm43_G5CJDH6WtkVV=w1200</Item>
+        <Item medium="image" caption="Foto 9">https://lh3.googleusercontent.com/d/15MOfjawRUm__Y4kvxMhe7w-7AZGQ6ml6=w1200</Item>
       </Media>
       <Details>
         <PropertyType>Residential / Apartment</PropertyType>
@@ -312,6 +321,22 @@
       <Title><![CDATA[Apartamento - QI 23 Guara II]]></Title>
       <TransactionType>For Sale</TransactionType>
       <Media>
+        <Item medium="image" caption="Foto 1" primary="true">https://lh3.googleusercontent.com/d/12guybC21vJRzlsVUj5FLbEiErVGvC2F0=w1200</Item>
+        <Item medium="image" caption="Foto 2">https://lh3.googleusercontent.com/d/1hOtnz8IUcqk4CR29sTRZlK_FPi8rjNAI=w1200</Item>
+        <Item medium="image" caption="Foto 3">https://lh3.googleusercontent.com/d/1nigp0PxrE1_nyXoPRS6L4vJVpvFHHACX=w1200</Item>
+        <Item medium="image" caption="Foto 4">https://lh3.googleusercontent.com/d/11kbO8-MaLkIwgIbv4JbymQKQcc0E4gid=w1200</Item>
+        <Item medium="image" caption="Foto 5">https://lh3.googleusercontent.com/d/15wl4N2rXkuwdxhz2r5Fb-rQeeezKvSns=w1200</Item>
+        <Item medium="image" caption="Foto 6">https://lh3.googleusercontent.com/d/16ZEWaGTXAME4IUgDrt4EMvgkQzClD-AF=w1200</Item>
+        <Item medium="image" caption="Foto 7">https://lh3.googleusercontent.com/d/1JGDqZOW1yMCV0ULzXmitJKLDrYx0xfDT=w1200</Item>
+        <Item medium="image" caption="Foto 8">https://lh3.googleusercontent.com/d/1EllXCVAJPGJcoiUdq4uQSeqDeZHULUQg=w1200</Item>
+        <Item medium="image" caption="Foto 9">https://lh3.googleusercontent.com/d/19V5XUJStyNYL4qb0p_K3_g0nPtTqj4kU=w1200</Item>
+        <Item medium="image" caption="Foto 10">https://lh3.googleusercontent.com/d/1B6SPoPKSK6jsGsxoTv9_G81xa-NF8Rh0=w1200</Item>
+        <Item medium="image" caption="Foto 11">https://lh3.googleusercontent.com/d/1banAjbqPnULPqLiyuhE1Iu7cfY0SNPUs=w1200</Item>
+        <Item medium="image" caption="Foto 12">https://lh3.googleusercontent.com/d/1Bt0PkA63nZqmE0j9VCM8OvwKQo0FmJtG=w1200</Item>
+        <Item medium="image" caption="Foto 13">https://lh3.googleusercontent.com/d/1M4-NfXQ5Dm6JbV51PtCDTTlXwthyyIGD=w1200</Item>
+        <Item medium="image" caption="Foto 14">https://lh3.googleusercontent.com/d/1PADX0rLNUV5dMLvbom_tIoD4vMOy3s7T=w1200</Item>
+        <Item medium="image" caption="Foto 15">https://lh3.googleusercontent.com/d/1X-x1D5dMqTX8BzCpgwbjQwe1KNB9kq1z=w1200</Item>
+        <Item medium="image" caption="Foto 16">https://lh3.googleusercontent.com/d/1vIAuMlD0xHVBwKhvGWfdrQ8jPBGQSg8P=w1200</Item>
       </Media>
       <Details>
         <PropertyType>Residential / Apartment</PropertyType>
@@ -647,6 +672,70 @@
         <City>Brasília</City>
         <Neighborhood>Jardim Botanico</Neighborhood>
         <Address>Quadra Principal - Jardim Botanico</Address>
+        <StreetNumber>100</StreetNumber>
+        <PostalCode>72005-505</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Gold Consultoria (61)98124-7628</Name>
+        <Email>goldconsultoria34@gmail.com</Email>
+        <Telephone>(61) 98124-7628</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>GOLD-115</ListingID>
+      <Title><![CDATA[Apto - Guará II]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Media>
+        <Item medium="image" caption="Foto 1" primary="true">https://lh3.googleusercontent.com/d/1Fu4YJskxgkKEiQa8uH_hGEqjn2ahyt_R=w1200</Item>
+        <Item medium="image" caption="Foto 2">https://lh3.googleusercontent.com/d/18BH9ZuPKnp08V_9POMzoi02JrN35nsvk=w1200</Item>
+        <Item medium="image" caption="Foto 3">https://lh3.googleusercontent.com/d/1KTiamRfwBX9ZXyuAYBexfk3EoIlFtF7y=w1200</Item>
+        <Item medium="image" caption="Foto 4">https://lh3.googleusercontent.com/d/1PA2W5PiNmtz1RGVThkVeB3AKfwrxP2Oo=w1200</Item>
+        <Item medium="image" caption="Foto 5">https://lh3.googleusercontent.com/d/1MDh6NbSShWYq1VNqr7PIHu0r9gTbbPCh=w1200</Item>
+        <Item medium="image" caption="Foto 6">https://lh3.googleusercontent.com/d/1d_eIr1UQDFnYUT_lfoXeCMKcbWUjKPMn=w1200</Item>
+        <Item medium="image" caption="Foto 7">https://lh3.googleusercontent.com/d/1pzYpqjE1Rrb9gQjI6VF-K-tQmj9T6Fu5=w1200</Item>
+        <Item medium="image" caption="Foto 8">https://lh3.googleusercontent.com/d/1ztl9hkHhgqyHIxm2NIIzHWBL_I8E0epC=w1200</Item>
+        <Item medium="image" caption="Foto 9">https://lh3.googleusercontent.com/d/1vl-Iyjih0RXPw0g6OxWiE9Y66gYw56Kr=w1200</Item>
+        <Item medium="image" caption="Foto 10">https://lh3.googleusercontent.com/d/1TypKxm2SRjT-SFE8AgL7GHb0fgk_0AFV=w1200</Item>
+        <Item medium="image" caption="Foto 11">https://lh3.googleusercontent.com/d/1SgYHlfaehNPbnTLe6c7L7yoRifUXMLI2=w1200</Item>
+        <Item medium="image" caption="Foto 12">https://lh3.googleusercontent.com/d/1yf8VB04GoX4YYfSBrLZnh4ei8UcrrmG4=w1200</Item>
+        <Item medium="image" caption="Foto 13">https://lh3.googleusercontent.com/d/1LyBPuLFu3LfAwo23ln9g3wsLd2oF2A9n=w1200</Item>
+        <Item medium="image" caption="Foto 14">https://lh3.googleusercontent.com/d/1wZw-L9j4SOe0A5pIcRvUiFZsQ9vPTqGQ=w1200</Item>
+        <Item medium="image" caption="Foto 15">https://lh3.googleusercontent.com/d/17sbSLUcJSVo9D5hoaw-Cs64Qe30da6ld=w1200</Item>
+        <Item medium="image" caption="Foto 16">https://lh3.googleusercontent.com/d/18Ah9plop-Iw7zRGnsI1PUpNGxYXZ_OPK=w1200</Item>
+        <Item medium="image" caption="Foto 17">https://lh3.googleusercontent.com/d/1J6mffcPXoPMjoDylkkxoO6laVUoxb2ae=w1200</Item>
+        <Item medium="image" caption="Foto 18">https://lh3.googleusercontent.com/d/1z8CAY9rzq86Ulxao_MuHlWsF06V4u4Na=w1200</Item>
+        <Item medium="image" caption="Foto 19">https://lh3.googleusercontent.com/d/1Vw3TXw7oT9AYFXSmKymKePYDnz2Myr96=w1200</Item>
+        <Item medium="image" caption="Foto 20">https://lh3.googleusercontent.com/d/1LZ3gCWRMzshfF_JTpqJwlyqwQhBMJrIE=w1200</Item>
+        <Item medium="image" caption="Foto 21">https://lh3.googleusercontent.com/d/1tLziAtQG0lUpW-mPjumD6vGJJNgDTEbc=w1200</Item>
+        <Item medium="image" caption="Foto 22">https://lh3.googleusercontent.com/d/1S9BK8PY4_0p3AeqbIK7k43wRqvXDDejy=w1200</Item>
+        <Item medium="image" caption="Foto 23">https://lh3.googleusercontent.com/d/1Yr0VrlC1pDQ-TBSgtljhjYVvlEzWT4ts=w1200</Item>
+        <Item medium="image" caption="Foto 24">https://lh3.googleusercontent.com/d/1b-ivCa4lsQ_rXdDOsIHh1Wjx1EBvu6QN=w1200</Item>
+        <Item medium="image" caption="Foto 25">https://lh3.googleusercontent.com/d/1JoX2BxGjCnWidEjYf_EDFlFYDrr3W-TY=w1200</Item>
+        <Item medium="image" caption="Foto 26">https://lh3.googleusercontent.com/d/1GvedNWnWweU7oIcylA7b2RlMbf5XkGxE=w1200</Item>
+        <Item medium="image" caption="Foto 27">https://lh3.googleusercontent.com/d/11qa_08spg3Gyl5Edq8LYkPFj32mW1O_3=w1200</Item>
+        <Item medium="image" caption="Foto 28">https://lh3.googleusercontent.com/d/1XG1WBEGLJhvqzn0PXyBpXl46qTZR7ymI=w1200</Item>
+        <Item medium="image" caption="Foto 29">https://lh3.googleusercontent.com/d/1HUmqL4Iyhptd_5nrWMOc92TyAtbUxxDz=w1200</Item>
+        <Item medium="image" caption="Foto 30">https://lh3.googleusercontent.com/d/1Gv5SecFP9-vBJ6VPyrGyp7fX8Sz5--kh=w1200</Item>
+      </Media>
+      <Details>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[aceito carro]]></Description>
+        <ListPrice currency="BRL">150000</ListPrice>
+        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">0</YearlyTax>
+        <LivingArea unit="square metres">60</LivingArea>
+        <LotArea unit="square metres">60</LotArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Suites>0</Suites>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="DF">Distrito Federal</State>
+        <City>Brasília</City>
+        <Neighborhood>Guará II</Neighborhood>
+        <Address>Quadra Principal - Guará II</Address>
         <StreetNumber>100</StreetNumber>
         <PostalCode>72005-505</PostalCode>
       </Location>
